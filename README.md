@@ -1,6 +1,5 @@
 ### Hello fellow human? 👋
 
-![Goblinhack's github stats](https://github-readme-stats.vercel.app/api?username=goblinhack)
 ![Alt text](titleflashingslow.gif?raw=true "")
 
 - 🔭 I’m currently working on ...
@@ -13,3 +12,5 @@ Older games:
 goblinhack@gmail.com
 - ⚡ Fun fact: ...
 Roguelikes are the future! :)
+
+![Goblinhack's github stats](https://github-readme-stats.vercel.app/api?username=goblinhack)
