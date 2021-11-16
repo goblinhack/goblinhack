@@ -12,3 +12,6 @@ Older games:
 goblinhack@gmail.com
 - ⚡ Fun fact: ...
 We are not alone...
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goblinhack)](https://github.com/goblinhack/github-readme-stats)
+
