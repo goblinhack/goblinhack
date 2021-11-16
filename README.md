@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-<!--
-**goblinhack/goblinhack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![Goblinhack's github stats](https://github-readme-stats.vercel.app/api?username=goblinhack)
 
 - 🔭 I’m currently working on ...
+[Zorbash](https://github.com/goblinhack/zorbash)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
