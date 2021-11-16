@@ -1,6 +1,7 @@
 ### Hello fellow human? 👋
 
 ![Goblinhack's github stats](https://github-readme-stats.vercel.app/api?username=goblinhack)
+![Alt text](titleflashingslow.gif?raw=true "")
 
 - 🔭 I’m currently working on ...
 [Zorbash](https://github.com/goblinhack/zorbash)
