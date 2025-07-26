@@ -3,11 +3,13 @@
 ![Alt text](titleflashingslow.gif?raw=true "")
 
 - 🔭 I’m currently working on ...
-[Zorbash](https://github.com/goblinhack/zorbash)
+[Gorget](https://github.com/goblinhack/gorget)
 - 🤔 I’m looking for help with ...
 Older games:
+[Zorbash](https://github.com/goblinhack/zorbash)
 [Gorynlich](https://github.com/goblinhack/gorynlich)
 [Goblinhack](https://github.com/goblinhack/goblinhack-game)
+
 - 📫 How to reach me: ...
 goblinhack@gmail.com
 - ⚡ Fun fact: ...
