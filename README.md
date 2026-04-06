@@ -3,7 +3,7 @@
 ![Alt text](titleflashingslow.gif?raw=true "")
 
 - 🔭 I’m currently working on ...
-[Gorget](https://github.com/goblinhack/gorget)
+[Gorget](https://github.com/goblinhack/sacrecant)
 - 🤔 I’m looking for help with ...
 Older games:
 [Zorbash](https://github.com/goblinhack/zorbash)
