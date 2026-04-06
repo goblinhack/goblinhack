@@ -15,4 +15,4 @@ goblinhack@gmail.com
 - ⚡ Fun fact: ...
 Roguelikes are the future! :)
 
-![Goblinhack's github stats](https://github-readme-stats.vercel.app/api?username=goblinhack)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/goblinhack?cardType=octocat&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
